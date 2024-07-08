@@ -8,4 +8,4 @@ Metabolic Syndrome is a cluster of conditions that occur together, increasing yo
 
 Click the link below to download the APK file for our Metabolic Syndrome app:
 
-[Download Metabolic Syndrome App](https://haseebimd.github.io/mets/app-release.apk)
+[Download Metabolic Syndrome App](https://haseebimd.github.io/mets/MetS.apk)
